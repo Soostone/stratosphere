@@ -62,4 +62,5 @@ tests:
       - tests
     dependencies:
       - base
+      - directory
       - hlint
